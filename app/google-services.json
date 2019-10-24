@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "440402939788",
+    "firebase_url": "https://sparepapfirebase.firebaseio.com",
+    "project_id": "sparepapfirebase",
+    "storage_bucket": "sparepapfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440402939788:android:5143434ae9b2a1613bd0a9",
+        "android_client_info": {
+          "package_name": "com.example.sparepap_fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440402939788-d8dhe8d47rifbp679aaampn0sevmtud4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sparepap_fcm",
+            "certificate_hash": "24c48206523efdf2919988351b14e24a73dc1177"
+          }
+        },
+        {
+          "client_id": "440402939788-5sa3mov3jnqq4nca35jqibrghgd3jeh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB65EdTZI6V5nCo23X_UktFJhzBBMqh_Po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440402939788-5sa3mov3jnqq4nca35jqibrghgd3jeh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
